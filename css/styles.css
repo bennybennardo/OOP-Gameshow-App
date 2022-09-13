@@ -88,10 +88,15 @@ button {
 
 /* Title */
 
+.main-image {
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
 .header {
   color: #3a3f58;
 }
-
 
 /* Phrase */
 
@@ -110,8 +115,6 @@ button {
 .space {
   width: 15px;
 }
-
-
 
 .show {
   color: #445069;
